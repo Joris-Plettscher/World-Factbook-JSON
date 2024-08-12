@@ -1,5 +1,5 @@
 # World-Factbook-JSON
-This repository contains World Factbook archives in raw JSON data from 2000 to 2024. Each year is found in an individual JSON file "<year>.json".
+This repository contains World Factbook archives in raw JSON data from 2000 to 2024. Each year is found in an individual JSON file "(year).json".
 
 ## The JSON File Structure
 Each JSON file is structured to include the complete set of data on every country. The data types include text values, lists, numeric values, and dictionaries. Some numeric values are stored as dictionaries with additional fields such as text, suffix and distribution, where the suffix often represents the unit, and the text contains the full text value from the World Factbook. 
